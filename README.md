@@ -8,4 +8,6 @@ The NC_Processing.py script automates the generation of images (PNG) of our pre-
 
 The GIF_maker.py script facilitates the creation of a GIF of all the processed satellite data to create an animation.
 
+The DescriptiveStatistics.py gathers the descriptive statistics of all NetCDF files in the directory and organizes them in a CSV file for further analysis.
+
 Note: This code was written in 2024, and I was kinda messy with my code back then.
